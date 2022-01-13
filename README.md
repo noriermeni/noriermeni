@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm  [Rinor Ermeni](https://rinorermeni.com/) 
 
-I am a Front End Developer.
+I am a Front End developer, enthusiastic and creative individual who enjoys solving problems using my creativity and the ability to communicate in a clear manner.
 
-Tech stack: JavaScript, TypeScript, React JS, React Native, CSS/Sass, Html.
+Tech stack:  JavaScript | TypeScript | React JS | Next | React Native | Node JS | Webpack | Micro Frontends | CSS | SASS | HTML
 
 In ❤️ with ❤️.
 
