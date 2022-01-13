@@ -10,6 +10,6 @@ In ❤️ with ❤️.
 - 🔭 I’m currently working on ...thing.
 - 🌱 I’m currently learning Node JS
 - 👯 I’m looking to collaborate on challenging projects
-- 📫 How to reach me: nori.ermeni@gmail.com
+- 📫 How to reach me: [mailto](mailto:nori.ermeni@gmail.com), or https://www.linkedin.com/in/rinor-ermeni-8415861a6/
 - ⚡ Fun fact: Sleep
 -->
