@@ -2,7 +2,7 @@
 
 I am a Front End Developer.
 
-Programming language: JavaScript, TypeScript, React JS, React Native, CSS/Sass, Html.
+Tech stack: JavaScript, TypeScript, React JS, React Native, CSS/Sass, Html.
 
 In ❤️ with ❤️.
 
