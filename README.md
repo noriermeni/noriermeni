@@ -2,7 +2,7 @@
 
 I am a Front End developer, enthusiastic and creative individual who enjoys solving problems using my creativity and the ability to communicate in a clear manner.
 
-Tech stack:  **JavaScript, TypeScript, React JS, Next.JS, React Native, Node JS, Webpack, Micro Frontends, GraphQL, Apollo Client, Axios, CSS, SASS, HTML.**
+Tech stack:  **JavaScript, TypeScript, React JS, Next.JS, React Native, Node JS, Webpack, Micro Frontends, GraphQL, Apollo Client, Axios, Microsoft Fluent UI, Material UI, Chakra UI, Styled-Components, CSS, SASS, HTML.**
 
 In ❤️ with ❤️.
 
